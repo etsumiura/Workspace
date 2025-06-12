@@ -60,7 +60,13 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-	</dependencies>
+	
+   <dependency>
+     <groupId>io.github.jklingsporn</groupId>
+     <artifactId>coronamq-mutiny</artifactId>
+     <version>0.2</version>
+   </dependency>
+ </dependencies>
 
 	<build>
 		<plugins>
