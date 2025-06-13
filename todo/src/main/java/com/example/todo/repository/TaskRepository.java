@@ -1,4 +1,4 @@
-package com.example.todo.repository;
+package TODO.src.main.java.com.example.todo.repository;
 
 import com.example.todo.model.Task;
 import org.springframework.data.jpa.repository.JpaRepository;

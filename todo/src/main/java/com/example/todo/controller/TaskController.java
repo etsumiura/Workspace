@@ -1,4 +1,4 @@
-package com.example.todo.controller;
+package src.main.java.com.example.todo.controller;
 
 import com.example.todo.model.Task;
 import com.example.todo.repository.TaskRepository;

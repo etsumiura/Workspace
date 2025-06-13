@@ -1,4 +1,4 @@
-package com.example.todo.model;
+package TODO.src.main.java.com.example.todo.model;
 
 import jakarta.persistence.*;
 import lombok.Data;
